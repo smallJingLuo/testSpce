@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "98Z8Z6VN82.com.ibq.app",
+                "paths": [ "*","/qq_conn/101929384/*" ]
+            }
+            {
+                "appID": "K6GMSMH6M3.com.jd.haidian"
+                "paths": [ "*","/qq_conn/101929384/*" ]
+            }
+        ]
+    },
+    {
+    "webcredentials": {
+        "apps": ["355A2TSX74.com.jdhd.iosapp","K6GMSMH6M3.com.jd.haidian"]
+    }
+}
+
+}
